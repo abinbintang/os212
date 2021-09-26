@@ -24,3 +24,11 @@ Sama seperti sebelumnya, yaitu tutorial github, namun ini menggunakan bahasa ing
 6. [Link Rangkuman dari Asdos](https://osp4diss.vlsm.org/osp-115.html)<br>
 Saya mendapatkan ini dari asdos, berisi link-link yang akan sangat berguna jika dipelajari, dengan setiap week memiliki materi yang berbeda sehingga
 link ini akan selalu relate dengan mahasiswa OS
+
+## Week 03
+7. [FUSE FileSystem](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+Link tentang Filesystem tipe FUSE yang digunakan pada mata kuliah Operating System<br>Pada web ini dijelaskan setiap dokumentasi yang terdapat di FUSE.
+
+8.[Hierarki File Linux](https://www.w3spoint.com/linux-file-hierarchy-structure)<br>
+Link ini terdapat penjelasan mengenai Hierarki File di Linux. Link ini membantu saya memahami tentang hierarki file di linux
+
