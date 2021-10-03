@@ -32,3 +32,12 @@ Link tentang Filesystem tipe FUSE yang digunakan pada mata kuliah Operating Syst
 8.[Hierarki File Linux](https://www.w3spoint.com/linux-file-hierarchy-structure)<br>
 Link ini terdapat penjelasan mengenai Hierarki File di Linux. Link ini membantu saya memahami tentang hierarki file di linux
 
+## Week 04
+9. [Operating System Address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address) <br>
+Pada Link ini dijelaskan tentang addressing yang terdapat di linux, dimana terbagi menjadi dua yaitu logical dan physical adress
+
+10. [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) <br>
+Setelah kelas kamis kemarin saya semakin penasaran dengan pointer yang ada di bahasa C yang merupakan bahasa utaama yang digunakan pada Sistem Operasi. Lalu saya menemukan web ini dan merasa sangat membantu dalam memahami pointer di C
+
+11. [Memory Allocation in C](https://www.youtube.com/watch?v=xDVC3wKjS64)<br>
+Saya menemukan link ini saat akan menjawab soal pada forum diskusi. saya merasa link ini sangat membantu dalam memahami memory allocation dalam bahasa C
