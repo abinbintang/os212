@@ -41,3 +41,10 @@ Setelah kelas kamis kemarin saya semakin penasaran dengan pointer yang ada di ba
 
 11. [Memory Allocation in C](https://www.youtube.com/watch?v=xDVC3wKjS64)<br>
 Saya menemukan link ini saat akan menjawab soal pada forum diskusi. saya merasa link ini sangat membantu dalam memahami memory allocation dalam bahasa C
+
+## Week 05
+12. [Virtual Memory](https://www.kernel.org/doc/html/latest/admin-guide/mono.html)<br>
+Setelah kemarin pad saaat kelas membahas tentang virtual memory, saya penasaran dan mencoba mencari di google, dan saya menemukan link ini. didalam link ini terdapat beberapa link lagi terkait dengan virtual memory
+
+13. [Memory System](https://www.sciencedirect.com/topics/computer-science/memory-system-performance)<br>
+Pada link ini saya mendapatkan pemahaman baru terhadap memory system, meskipun agak susah di mengerti. namun link ini akan tetap berguna.
