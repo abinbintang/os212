@@ -48,3 +48,10 @@ Setelah kemarin pad saaat kelas membahas tentang virtual memory, saya penasaran 
 
 13. [Memory System](https://www.sciencedirect.com/topics/computer-science/memory-system-performance)<br>
 Pada link ini saya mendapatkan pemahaman baru terhadap memory system, meskipun agak susah di mengerti. namun link ini akan tetap berguna.
+
+## Week 06
+14. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Link ini membantu saya memahami pelajaran os pada week 6 ini, berisi tentang command fork di bahasa C, yang merupakan bahasa utama di OS
+
+15. [Process Concept](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+Pada minggu ke 6 ini saya juga mempelajari konsep utama dari proses dalam sistem operasi, link ini sangat membantu saya dalam memahami link ini

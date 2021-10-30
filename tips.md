@@ -13,3 +13,6 @@ Tugas setiap minggu harus dikerjakan, akan sangat sayang sekali apabila tidak di
 
 4. Jangan Malu Bertanya<br>
 Karena materi yang bisa dibilang sulit, jangan malu bertanya kepada temanmu atau pun asdos, ingat malu bertanya sesat di jalan :)
+
+5. Selalu Cek Scele<br>
+Biasanya akan selalu ada forum atau absensi per minggu di scele yang dikirimkan oleh Pak Rahmat, ingat selalu untuk mengerjakannya agar nilai kita bisa bagus
