@@ -16,3 +16,6 @@ Karena materi yang bisa dibilang sulit, jangan malu bertanya kepada temanmu atau
 
 5. Selalu Cek Scele<br>
 Biasanya akan selalu ada forum atau absensi per minggu di scele yang dikirimkan oleh Pak Rahmat, ingat selalu untuk mengerjakannya agar nilai kita bisa bagus
+
+6. Kerjakan tugas segera<br>
+Jika sudah masuk ke minggu selanjutnya, segera kerjakan tugas jangan di undur-undur. takutnya di lain waktu terdapat deadline yg bersamaan

@@ -55,3 +55,10 @@ Link ini membantu saya memahami pelajaran os pada week 6 ini, berisi tentang com
 
 15. [Process Concept](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 Pada minggu ke 6 ini saya juga mempelajari konsep utama dari proses dalam sistem operasi, link ini sangat membantu saya dalam memahami link ini
+
+## Week 07
+16. [Process Synchrozation](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html)<br>
+Setelah minggu ke 6 kita belajar tentang konsep dari proses, kali ini tentang sinkronisasi nya. di dalam link ini menjelaskan tentang bagaimana proses dalam Sistem Operasi bersinkronisasi.
+
+17. [Deadlock VS Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+Pada link ini dijelaskan perbedaan Deadlock dan Starvation. link ini sangat membantu saya untuk memahami nya.
