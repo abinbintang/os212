@@ -62,3 +62,10 @@ Setelah minggu ke 6 kita belajar tentang konsep dari proses, kali ini tentang si
 
 17. [Deadlock VS Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
 Pada link ini dijelaskan perbedaan Deadlock dan Starvation. link ini sangat membantu saya untuk memahami nya.
+
+## Week 08
+18. [CPU Scheduling Neso](https://youtu.be/EWkQl0n0w5M)<br>
+Video dari Neso Academy tentang CPU Scheduling. CPU Scheduling adalah konsep dimana proses dalam CPU dibagi menjadi berbagai tahap. 
+
+19.[Algoritma CPU Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+Dalam link ini terdapat berbagai macam algoritma scheduling yang terdapat pada OS. Seperti FCFS(First Come First Serve), Priority, dan lain lain.

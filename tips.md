@@ -19,3 +19,6 @@ Biasanya akan selalu ada forum atau absensi per minggu di scele yang dikirimkan 
 
 6. Kerjakan tugas segera<br>
 Jika sudah masuk ke minggu selanjutnya, segera kerjakan tugas jangan di undur-undur. takutnya di lain waktu terdapat deadline yg bersamaan
+
+7. Jangan Malas<br>
+Jangan pernah malas karena tugas dari OS memerlukan tingkat kerajinan, kalau kamu rajin kamu pasti akan mendapat nilai bagus
